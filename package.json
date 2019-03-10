@@ -1,0 +1,13 @@
+{
+  "name": "AppName",
+  "version": " 1.0.0",
+  "description": "des des des",
+  "main": "index.js",
+  "author": "Ahmad Sabry",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "^6.24.1",
+    "react-router-dom": "^4.3.1"
+  }
+}
